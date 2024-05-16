@@ -27,10 +27,11 @@ main {
   flex: 2;
 }
 .right {
+  flex: 1;
+  position: relative;
   justify-content: center;
   padding: 10px;
   border-radius: 2.3rem;
-  background-color: black;
 }
 .image {
   width: 300px; /* Adjust the width as needed */
